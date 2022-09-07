@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
   to = "https://juicenews.beehiiv.com"
-  status = 301
+  status = 302
   force = true
