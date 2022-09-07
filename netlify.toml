@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "https://newsletter.juicebox.money"
+  from = "/"
   to = "https://juicenews.beehiiv.com"
   status = 301
+  force = true
