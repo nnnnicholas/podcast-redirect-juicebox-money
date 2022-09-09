@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://juicenews.beehiiv.com"
+  to = "https://anchor.fm/thejuicecast"
   status = 302
   force = true
